@@ -44,5 +44,9 @@ The user can :
 
 * Allows user to see the stats of a specific Tokimon after giving the Tokimon's ID.
 
+## Images of the JavaFX application
 
+<a href="https://github.com/RedDogClifford/tokimonServer-Application/">
+  <img src="tokimon Images/Tokimon Viewer.jpg">
+</a>
 
