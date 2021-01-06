@@ -51,5 +51,5 @@ The user can :
 </a>
 
 <a href="https://github.com/RedDogClifford/tokimonServer-Application/">
-  <img src="tokimon Images/Tokimon Viewer2.jpg">
+  <img src="tokimon Images/Tokimon Viewer 2.jpg">
 </a>
