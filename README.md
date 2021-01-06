@@ -27,3 +27,22 @@ Also created a JavaFx application to access the server through HTTP protocols.
 * TextFields, Labels
 
 * Gridpanes, VBox, Hbox
+
+## How the application works
+
+There are 5 different functionalities to the JavaFX UI. 
+
+The user can :
+
+* Create a Tokimon (Setting a color, name, weight, height, fire, water, eletric, ice, fly, and strength stat)
+
+* Shows Stored Tokimons from web server onto UI.
+
+* Allows user to change a Tokimon's height. (User can see the change in real time through the visual stored tokimons.)
+
+* Allows user to delete a Tokimon. (User can see the change in real time through the visual stored tokimons.)
+
+* Allows user to see the stats of a specific Tokimon after giving the Tokimon's ID.
+
+
+
